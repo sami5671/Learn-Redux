@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "Learn Modern ES6+ JavaScript",
+      "completed": true,
+      "color": "red"
+    }
+  ]
+}
