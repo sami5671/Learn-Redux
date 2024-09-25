@@ -1,0 +1,92 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.9k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg"
+    },
+    {
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "date": "Oct 15, 2021",
+      "duration": "10:45",
+      "views": "2.5k",
+      "id": 7
+    },
+    {
+      "title": "This AI Can Create UI Components In A Single Click! (Must Try)",
+      "description": "Try PureCode AI Now: https://purecode.ai\nComponent I created: https://purecode.ai/aiprojects/21058f...\n\nPrompt I used: \"create a navbar for my blog website. It should collapse in  mobile with a hamburger icon and it should show the menu once the hamburger icon is tapped. the menu should contain Home, About, Blog, Contact Us links. I should be responsive for mobile, ipad and other large screens. It should have a logo which has a text of HarryTechnoX which should be highlighted in bold (it works like logo of the site)\"\n\n►Checkout my English channel here:    / @programmingwithharry  \n►Instagram:   / codewithharry  \n\npython, C, C++, Java, JavaScript and Other Cheatsheets [++]:\nPlaylist:    • Coding CheatSheets 🧾 by CodeWithHarry  \n\n►Learn in One Video[++]:\nPython Course with 5 Projects:    • Python Crash Course in Hindi | 5 Pyth...  \nPython[15 Hr]:    • Python Tutorial For Beginners In Hind...  \nPython Advance[3.5 Hr]:    • Python Programming Course in Hindi (A...  \nPython[1 Hr]:    • Learn Python In Hindi In One Video - ...  \nPython[2 Hr]:    • Python Tutorial In Hindi 🔥  \nPython[15 Min]:   • 15 Minute Python Tutorial For Beginne...  \nJavaScript[1 Hr]:    • JavaScript Tutorial  \nC[1.3 Hr]-   • C Programming Tutorial For Beginners:...  \nphp[1 Hr]:    • Learn Php In One Video In Hindi - हिं...  \nphp[2.3 Hr]:   • Php Tutorial for Beginners in Hindi w...  \nphp[Project]-    • Login And Registration Form Using Php...  \nHTML[30 Min]:   • HTML 5 Tutorial For Beginners In Hind...  \nCSS[8.5 Hr]:   • CSS Tutorial In Hindi (With Notes) 🔥  \nCSS[1.4 Hr]:   • CSS 3 Tutorial For Beginners: Learn C...  \nWordpress[3.2 Hr]:   • How To Make a WordPress Website | Wor...  \nAngular[2 Hr]:   • Angular Tutorial in Hindi  \nJava[2.3 Hr]:   • Java tutorial in hindi 🔥  \nWeb Scraping[1 Hr]:   • Web Scraping Tutorial using Python an...  \nMongoDB[2 Hr]:   • MongoDb Tutorial For Beginners in Hin...  \nNumpy[1 Hr]:   • Numpy Tutorial in Hindi  \nAndroid Dev[12 Hr]-    • Android Development Tutorial For Begi...  \nLinux[1 Hr]:   • Linux Tutorial For Beginners in Hindi  \nJQuery[1.1 Hr]:   • jQuery Tutorial For Beginners In Hind...  \nGit and GitHub[1.1 Hr]:   • Git & GitHub Tutorial For Beginners I...  ",
+      "author": "Code With Harry",
+      "link": "https://www.youtube.com/embed/y_yDHfnOLVs",
+      "thumbnail": "https://i3.ytimg.com/vi/y_yDHfnOLVs/maxresdefault.jpg",
+      "date": "13 Sep, 2024",
+      "duration": "16:30",
+      "views": "30k",
+      "id": 8
+    }
+  ]
+}

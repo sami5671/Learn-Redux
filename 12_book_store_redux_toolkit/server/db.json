@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "price": "50",
+      "rating": "5",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "Ghost Bump",
+      "author": "Mick Herron",
+      "price": "50",
+      "rating": "3",
+      "thumbnail": "https://th.bing.com/th/id/OIP.s30NFtiV2vldPfpB_4IP2AHaKt?rs=1&pid=ImgDetMain",
+      "featured": true,
+      "id": 2
+    }
+  ]
+}

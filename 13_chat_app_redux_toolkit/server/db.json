@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "email": "samialam5671@gmail.com",
+      "password": "$2a$10$uwPjEr4g2HmITr0sZVjTyOSyn70L/OkxYdshudthv8PhLNZrrMtam",
+      "name": "Rock Boy Sami",
+      "id": 2
+    },
+    {
+      "email": "mohammadsami95559@gmail.com",
+      "password": "$2a$10$fSLS8jiu0KKlOMqIwD/1iOVCy.7fdghVsSgkPcVPO4zdqwoIghZfi",
+      "name": "Md Sami Alam",
+      "id": 3
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "mohammadsami95559@gmail.com-samialam5671@gmail.com",
+      "users": [
+        {
+          "email": "mohammadsami95559@gmail.com",
+          "name": "Md Sami Alam",
+          "id": 3
+        },
+        {
+          "email": "samialam5671@gmail.com",
+          "name": "Rock Boy Sami",
+          "id": 2
+        }
+      ],
+      "message": "ok got the point",
+      "timestamp": 1727015445147,
+      "id": 1
+    },
+    {
+      "participants": "mohammadsami95559@gmail.com-samialam5671@gmail.com",
+      "users": [
+        {
+          "email": "mohammadsami95559@gmail.com",
+          "name": "Md Sami Alam",
+          "id": 3
+        },
+        {
+          "email": "samialam5671@gmail.com",
+          "password": "$2a$10$uwPjEr4g2HmITr0sZVjTyOSyn70L/OkxYdshudthv8PhLNZrrMtam",
+          "name": "Rock Boy Sami",
+          "id": 2
+        }
+      ],
+      "message": "hi",
+      "timestamp": 1727018092455,
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "samialam5671@gmail.com",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mohammadsami95559@gmail.com",
+        "password": "$2a$10$fSLS8jiu0KKlOMqIwD/1iOVCy.7fdghVsSgkPcVPO4zdqwoIghZfi",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "message": "Hi vai ",
+      "timestamp": 1727012402201,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mohammadsami95559@gmail.com",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "receiver": {
+        "email": "samialam5671@gmail.com",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "message": "Hi Ki obosta tmr??",
+      "timestamp": 1727012451795,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "samialam5671@gmail.com",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mohammadsami95559@gmail.com",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "message": "Alhamduliah vai Valo asi 😁",
+      "timestamp": 1727014303406,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "samialam5671@gmail.com",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mohammadsami95559@gmail.com",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "message": "Redux Ar kobor ki ....?",
+      "timestamp": 1727014986827,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "samialam5671@gmail.com",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mohammadsami95559@gmail.com",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "message": "he will come tommorow",
+      "timestamp": 1727015429030,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mohammadsami95559@gmail.com",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "receiver": {
+        "email": "samialam5671@gmail.com",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "message": "ok got the point",
+      "timestamp": 1727015445147,
+      "id": 6
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "mohammadsami95559@gmail.com",
+        "name": "Md Sami Alam",
+        "id": 3
+      },
+      "receiver": {
+        "email": "samialam5671@gmail.com",
+        "password": "$2a$10$uwPjEr4g2HmITr0sZVjTyOSyn70L/OkxYdshudthv8PhLNZrrMtam",
+        "name": "Rock Boy Sami",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1727018092455,
+      "id": 7
+    }
+  ]
+}

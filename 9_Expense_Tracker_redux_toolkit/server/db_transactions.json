@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "Salary from Google",
+      "type": "income",
+      "amount": 20000,
+      "id": 1
+    },
+    {
+      "name": "Face Wash",
+      "type": "expense",
+      "amount": 500,
+      "id": 2
+    },
+    {
+      "name": "Md Sami Alam",
+      "type": "income",
+      "amount": 500,
+      "id": 3
+    }
+  ]
+}

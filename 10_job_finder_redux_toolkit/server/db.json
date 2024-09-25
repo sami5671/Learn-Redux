@@ -1,0 +1,39 @@
+{
+  "jobs": [
+    {
+      "title": "DevOps Engineer",
+      "type": "Internship",
+      "salary": "25002",
+      "deadline": "2024-12-31",
+      "id": 1
+    },
+    {
+      "title": "QA Engineer",
+      "salary": "1500",
+      "deadline": "2023-12-31",
+      "type": "Full Time",
+      "id": 2
+    },
+    {
+      "title": "Product Manager",
+      "type": "Remote",
+      "salary": "18000",
+      "deadline": "2023-12-31",
+      "id": 3
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Internship",
+      "salary": "20000",
+      "deadline": "2023-11-30",
+      "id": 4
+    },
+    {
+      "title": "Product Manager",
+      "type": "Remote",
+      "salary": "40000",
+      "deadline": "2024-09-28",
+      "id": 5
+    }
+  ]
+}

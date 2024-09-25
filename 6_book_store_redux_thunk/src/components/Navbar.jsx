@@ -1,16 +1,19 @@
-import React from "react";
+import { useDispatch } from "react-redux";
+import logo from "../images/logo.svg";
+import { searchBooks } from "../redux/actions";
 
 const Navbar = () => {
+  const dispatch = useDispatch();
+
+  const handleSearch = (event) => {
+    const query = event.target.value;
+    dispatch(searchBooks(query));
+  };
   return (
     <>
-      {" "}
       <nav className="py-4 2xl:px-6">
         <div className="container flex items-center justify-between">
-          <img
-            src="./images/logo.svg"
-            width="150px"
-            className="object-contain"
-          />
+          <img src={logo} width="150px" className="object-contain" />
 
           <ul className="hidden md:flex items-center space-x-6">
             <li className="font-semibold cursor-pointer">Book Store</li>
@@ -37,6 +40,7 @@ const Navbar = () => {
                 placeholder="Filter books..."
                 className="search"
                 id="lws-searchBook"
+                onChange={handleSearch}
               />
             </div>
           </form>
